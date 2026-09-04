@@ -276,9 +276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9838d0e7fe2d56f46ac76c5fc46e9471, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DoorLogic
-  openAngle: -90
-  duration: 1
-  timeTillDoorCloses: 4
+  DegreeOfTurn: 5
 --- !u!1 &208086609
 GameObject:
   m_ObjectHideFlags: 0
